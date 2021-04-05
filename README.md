@@ -1,2 +1,1 @@
-# supermarket-sales
- 
+# online-retail-customer-segregation
